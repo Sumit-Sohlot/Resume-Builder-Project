@@ -66,4 +66,6 @@ Multiple resume templates
 
 Database persistence
 
-Cloud deployment
+AI Implementation
+
+Downloading of Resume
